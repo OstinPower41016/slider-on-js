@@ -9,4 +9,4 @@ slideWrapper - the outer wrapper of the slider
 field - inner slide wrapper
 current and total - general and specific slide counter
 
-getZero function checks the value, if it is less than ten, then adds zero to the value
+getZero function checks the value, if it is less than ten, then adds zero to the value.
